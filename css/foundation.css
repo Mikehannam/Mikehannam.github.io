@@ -2985,7 +2985,7 @@ meta.foundation-mq-topbar {
 
 .orbit-container {
   overflow: hidden;
-  width: 100%;
+  width: 90%;
   position: relative;
   background: none; }
   .orbit-container .orbit-slides-container {
@@ -3007,7 +3007,6 @@ meta.foundation-mq-topbar {
       .orbit-container .orbit-slides-container > * .orbit-caption {
         position: absolute;
         bottom: 0;
-        background-color: rgba(51, 51, 51, 0.8);
         color: white;
         width: 100%;
         padding: 0.625rem 0.875rem;
