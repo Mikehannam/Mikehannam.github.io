@@ -1,0 +1,158 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home</title>
+    <link rel="stylesheet" href="css/foundation.css" />
+    <script src="js/vendor/modernizr.js"></script>
+  </head>
+
+  <body>
+  <style type="text/css">body{font-family:'Raleway',sans-serif;font-size:18px;}hr{text-align:center;margin:0 auto;opacity:0.5;}ul{text-transform:uppercase;}ul.inline-list.right{text-transform:none;}ul.inline-list.right a{color:#000;}ul.inline-list.right a:hover{color:rgba(0,0,0,0.5);}h1{font-family:'American Typewriter','Courier New',Courier,Monaco,mono;font-size:32px;color:#fff;line-height:28px;margin-top:16px;margin-bottom:0px;text-align:center;}h2{font-family:'American Typewriter','Courier New',Courier,Monaco,mono;color:#fff;font-size:36px;line-height:34px;}h3{font-family:'American Typewriter','Courier New',Courier,Monaco,mono;font-size:24px;color:#fff;line-height:10px;text-align:center;font-weight:500;padding-bottom:10px;}h4{font-family:'American Typewriter','Courier New',Courier,Monaco,mono;color:#000;font-size:28px;padding-top:5px;}.columns.large-centered{padding-left:5px;padding-right:5px;}@media only screen and (max-width: 40em) {.columns.large-centered{font-size:13px;}}@media only screen and (min-width: 40.063em) {.columns.large-centered{font-size:14px;}}.about-box{color:#fff;}.black-box{background-color:rgba(0,0,0,0.55);padding:35px;font-weight:900;}.black-box p{font-weight:900;}.secondary.small.button{background-color:transparent;color:#fff;border:2px #fff solid;border-radius:5px;padding:15px 50px 15px 50px;margin:0;}.secondary.small.button:hover{background-color:rgba(255,255,255,0.5);}.row .main-wrapper{color:#fff;}.about-content{background-color:#fff;box-shadow:2px 2px 10px rgba(0,0,0,0.1);}.button-group li .button{border:0!important;}.button{-webkit-appearance:none;background-color:transparent;border-width:0;text-align:center;box-shadow:0 0 0;}.button:hover{color:rgba(255,255,255,0.7);background-color:transparent;}footer p,footer a{font-size:14px;}.hero{padding-bottom:50px;background-image:url("img/viennapic1.jpg");background-size:cover;box-shadow:inset 0px 0px 0 2000px rgba(0,0,0,0.2);}.hero-content{padding-top:40px;padding-bottom:40px;background-color:#EAEAEA;}.panel{margin:40px 0 40px 0;box-shadow:2px 2px 10px rgba(0,0,0,0.2);border:none;background-color:#EAEAEA;}.large-4 img{box-shadow:2px 2px 10px rgba(0,0,0,0.1);}.radius.right.button{color:#000;border:2px #000 solid;border-radius:5px;padding:15px 50px 15px 50px;margin:0;font-size:0.8125em;}@media only screen and (min-width: 64.063em) {.radius.right.button{color:#000;border:2px #000 solid;border-radius:5px;padding:15px 50px 15px 50px;margin-top:25px;font-size:0.8125em;}}@media only screen and (min-width: 40.063em) {.radius.right.button{color:#000;border:2px #000 solid;border-radius:5px;padding:15px 50px 15px 50px;margin-top:25px;font-size:0.8125em;}}.radius.right.button:hover{background-color:rgba(0,0,0,0.1);}</style>
+
+    
+     
+    <section class="hero">
+      <div class="row">
+        <div class="large-12 columns">
+          <div class="main-wrapper">
+            <h1>Alien In Vienna</h1>
+            <h3>|Mike Hannam|</h3>
+            <hr>
+            <div class="row">
+              <div class="large-6 columns large-centered">
+                <ul class="button-group even-3">
+                  <li><a href="index.html" class="button">Blog</a></li>
+                  <li><a href="about.html" class="button">About</a></li>
+                  <li><a href="contact.html" class="button">Contact</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="large-6 columns about-box">
+          <div class="black-box">
+            <h2>What can I say?</h2>
+            <p>19 Years old, got bored of UK so decided to move to Vienna. Been excited to do more exploring ever since... <br>
+            With that over and done with</p> 
+            <a href="about.html" class="secondary small button">About Me →</a>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <section class="hero-content"> 
+    <div class="row">
+      
+      <div class="large-8 columns about-content">
+        <h4>Moving out is hard</h4>
+        <p>Ive alwasy been told by my family that moving out of home is very hard and it will take sometime to get used to.</p>
+        <p>I respectivly disagree with that statment. From my experince from moving to vienna, I belive that the hardest part is decided where to move and when. This is why it took me around a year to move to Vienna. You definitly have to be certain that you want to move as its not cheap, but its...   <a href="#" data-reveal-id="terms">Read more</a> </p>
+        <p>
+        <div style="width:25%;height:25%;">
+        <img src="http://siteimprove.co.uk/wp-content/uploads/2014/03/DanielWaller2.jpg">
+        </div>
+        <h4>Daniel Wilson.</h4>
+        <p>Daniel has been the manager of My Fairy Godmother's Cakes for 12 years and has helped the business develop and branch off to become a bigger and better business. Since Daniel's takeover in 2002 he has hired more staff to help customers get the cakes for their special days.</p>
+        <div style="width:25%;height:25%;">
+        <img src="http://siteimprove.co.uk/wp-content/uploads/2014/03/Amy.jpg">
+        </div>
+        <h4>Amy Wallard.</h4>
+        <p>Amy has been working for My Fairy Godmothers Cakes for 10 years and works in the kitten which is where the amazing creations are made. In the time she has been working for Fairy Godmothers Cakes she has developed her skills as a cake maker and has also began becoming a customer consultant and visiting the customers to get an idea of what the customer would like us to make.</p>
+        <div style="width:25%;height:25%;">
+        <img src="http://siteimprove.co.uk/wp-content/uploads/2014/07/Alex_Stanley.jpg">
+        </div>
+        <h4>Alex Collins.</h4>
+        <p>Alex joined My Fairy Godmothers Cakes 8 years ago, as a customer consultant. His job is to speak to you and see how we can make the perfect cake for you. Alex has recently joined the business again after a break from work, so you will be seeing him very soon.</p>
+        <div style="width:25%;height:25%;">
+        <img src="http://siteimprove.co.uk/wp-content/uploads/2014/03/Cerri-Mac.jpg">
+        </div>
+        <h4>Cerri Woods.</h4>
+        <p> Cerri for the longest time, 15 years, out of the latest staff at My Fairy Godmothers Cakes. Cerri's job is to look after all the staff and to help in getting the supplies into the store. Without her we wouldn't have the ingredients to create the cakes which you guys love.</p>
+
+
+      </div>
+      <div class="large-4 columns">
+        
+        <ul class="small-block-grid-2">
+          <li><a href="#"> <img src="http://siteimprove.co.uk/wp-content/uploads/2014/03/DanielWaller2-2.jpg" onmouseover="this.src='http://siteimprove.co.uk/wp-content/uploads/2014/03/DanielWaller2.jpg'" onmouseout="this.src='http://siteimprove.co.uk/wp-content/uploads/2014/03/DanielWaller2-2.jpg'"/></a></li>
+                
+          <li><a href="#"> <img src="http://siteimprove.co.uk/wp-content/uploads/2014/03/Amy-2.jpg" onmouseover="this.src='http://siteimprove.co.uk/wp-content/uploads/2014/03/Amy.jpg'" onmouseout="this.src='http://siteimprove.co.uk/wp-content/uploads/2014/03/Amy-2.jpg'"/></a></li>
+         
+          <li><a href="#"> <img src="http://siteimprove.co.uk/wp-content/uploads/2014/07/Alex_Stanley_BW2.jpg" onmouseover="this.src='http://siteimprove.co.uk/wp-content/uploads/2014/07/Alex_Stanley.jpg'" onmouseout="this.src='http://siteimprove.co.uk/wp-content/uploads/2014/07/Alex_Stanley_BW2.jpg'"/></a></li>
+         
+          <li><a href="#"> <img src="http://siteimprove.co.uk/wp-content/uploads/2014/03/Cerri-Mac-2.jpg" onmouseover="this.src='http://siteimprove.co.uk/wp-content/uploads/2014/03/Cerri-Mac.jpg'" onmouseout="this.src='http://siteimprove.co.uk/wp-content/uploads/2014/03/Cerri-Mac-2.jpg'"/></a></li>
+
+          <li><a href="#"><img src="http://placehold.it/180x180&text=You"/></a></li>
+
+        </ul>
+      </div>
+          
+    </div>
+    </section>
+          
+
+    
+    
+     
+    <div class="row">
+      <div class="large-12 columns">
+      
+        <div class="panel">
+              
+          <div class="row">
+            <div class="large-9 columns">
+              <h4>Get in touch!</h4>
+              <p>We're open 9am - 5pm, Monday through Saturdays.</p>
+              <ul class="vcard">
+  <li class="fn">Fairy Godmother Cakes</li>
+  <li class="street-address">5 Bakers Street.</li>
+  <li><span class="state">London</span>, <span class="zip">WC1E 7HU</span></li>
+  <li class="number">+44 (0)30 48592794
+  <li class="email"><a href="#">enquires@fairygodmother.co.uk</a></li>
+</ul>
+
+            </div>
+            <div class="large-3 columns">
+              <a href="contact.html" class="radius button right">Contact Us</a>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+    
+    <footer>
+      <div class="row">
+        <div class="large-6 columns">
+          <p>Alien In Vienna</p>
+        </div>
+        <div class="large-6 columns">
+          <ul class="inline-list right">
+            <li><a href="#" data-reveal-id="about">About</a>
+            <li><a href="#" data-reveal-id="terms">Terms of Use</a>
+            <li><a href="#">Privacy Policy</a></li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+    <div id="about" class="reveal-modal" data-reveal>
+  <p class="lead">About.</p>
+  <p>This page was created by Michael Hannam, for "Alien Of Vienna"blogs. If you want Michael to create your website email <b>Enquires@MHWeb.com</b>.</p>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
+<div id="terms" class="reveal-modal" data-reveal>
+  <p class="lead">Moving out is hard</p>
+ <p>Ive alwasy been told by my family that moving out of home is very hard and it will take sometime to get used to.</p>
+        <p>I respectivly disagree with that statment. From my experince from moving to vienna, I belive that the hardest part is decided where to move and when. This is why it took me around a year to move to Vienna. You definitly have to be certain that you want to move as its not cheap, but its
+  <a class="close-reveal-modal">&#215;</a>
+</div>
+     <script src="js/vendor/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </body>
