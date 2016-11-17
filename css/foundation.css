@@ -2359,7 +2359,7 @@ meta.foundation-mq-topbar {
     clear: both; }
   .button-group > li {
     margin: 0 -2px;
-    float: left;
+    float: center;
     display: inline-block; }
     .button-group > li > button, .button-group > li .button {
       border-left: 1px solid;
@@ -4042,7 +4042,7 @@ blockquote p {
   top: 0;
   border-radius: 3px;
   left: 0;
-  background-color: white;
+  background-color: #EAEAEA;
   padding: 1.25rem;
   border: solid 1px #666666;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
